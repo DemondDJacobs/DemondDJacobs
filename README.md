@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemondDJacobs
+- 👋 Hi, I’m @DemondDJacobs OR, DJ :D
 - 👀 I’m interested in Machine Learning, Cybersecurity, and Programming
 - 🌱 I’m currently learning anything and everything
 - 💞️ I’m looking to collaborate on ...
